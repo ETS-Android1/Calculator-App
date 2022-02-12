@@ -1,7 +1,7 @@
 # Calculator App
  <div class="row">
   <div class="column">
-    ![ScreenShot1](pics/tia4377079024440446316.png)
+    <img src="pics/tia4377079024440446316.png" alt="ScreenShot1" style="width:100%">
   </div>
   <div class="column">
     <img src="img_forest.jpg" alt="Forest" style="width:100%">
