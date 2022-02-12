@@ -1,6 +1,16 @@
 # Calculator App
- 
-![ScreenShot1](pics/tia4377079024440446316.png)
+ <div class="row">
+  <div class="column">
+    ![ScreenShot1](pics/tia4377079024440446316.png)
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
 ![ScreenShot1](pics/tia229607692772138740.png)
 ![ScreenShot1](pics/tia731838665414005833.png)
 ![ScreenShot1](pics/tia6033623814991627674.png)
