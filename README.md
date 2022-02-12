@@ -1,10 +1,10 @@
 # Calculator App
  <div class="row">
   <div class="column">
-    <img src="pics/tia4377079024440446316.png" alt="ScreenShot1" style="width:100%">
+    <img src="pics/tia4377079024440446316.png" alt="ScreenShot1" style="width:20%">
   </div>
   <div class="column">
-    <img src="pics/tia229607692772138740.png" alt="ScreenShot2" style="width:100%">
+    <img src="pics/tia229607692772138740.png" alt="ScreenShot2" style="width:20%">
   </div>
   <div class="column">
     <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
