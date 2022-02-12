@@ -10,13 +10,13 @@
 </p>
 
 
-### A Open Source Simple Calculator Application.
+### An Open Source Simple Calculator Application.
 
 ### Supports Light and Dark Mode
 
 # Stable Release
 
-## 
+### [Stable Version](https://github.com/SubhadeepZilong/Calculator-App/releases/)
 
 
 
